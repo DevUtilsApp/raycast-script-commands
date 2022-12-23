@@ -1,5 +1,7 @@
 # DevUtils + Raycast ❤️
 
+* ℹ️ UPDATE:* Use the official DevUtils Raycast Extension here: https://www.raycast.com/devutils/devutils/commands
+
 Official script commands for Raycast.
 
 ![](screenshot.png)
